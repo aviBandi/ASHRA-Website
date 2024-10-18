@@ -38,8 +38,8 @@ const Footer = () => {
                 <h2 className="text-lg font-semibold mb-2 text-[#DAA520]">CONTACT INFORMATION</h2>
                 <ul className="text-sm text-gray-300 space-y-1">
                   <li>Email: <a href="mailto:ashracorporations@gmail.com" className="hover:text-white">ashracorporations@gmail.com</a></li>
-                  <li>Phone: <a href="tel:+1234567890" className="hover:text-white">+123 456 7890</a></li>
-                  <li>Address: 123 Hope Street, City, Country</li>
+                  {/* <li>Phone: <a href="tel:+1234567890" className="hover:text-white">+123 456 7890</a></li>
+                  <li>Address: 123 Hope Street, City, Country</li> */}
                 </ul>
               </nav>
             </div>
